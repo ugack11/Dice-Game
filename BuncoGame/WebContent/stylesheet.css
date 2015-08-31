@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color:grey;
+}
+h2{
+	font-family:Verdane;
+	font-weight:bold;
+	
+	
+}
+#indexbody{
+	font-size:2em;
+	}
+
+
+#rollbutton{
+	position:relative;
+	margin-left:200px;
+	top:30px;
+}
